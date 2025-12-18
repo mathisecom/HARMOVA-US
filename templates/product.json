@@ -598,6 +598,77 @@
         "custom_colors_text": "#121212"
       }
     },
+    "icons_with_content_qRUKyQ": {
+      "type": "icons-with-content",
+      "blocks": {
+        "image_Gx4KgD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/113.webp",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "icon_KF86hH": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "icon_jzUQKx": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "icon_Nfj8Xj": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_Gx4KgD",
+        "icon_KF86hH",
+        "icon_jzUQKx",
+        "icon_Nfj8Xj"
+      ],
+      "name": "Icons with content",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "icon_size": "m",
+        "icon_position": "next-to-title",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "image_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
       "type": "testimonials",
       "blocks": {
@@ -707,6 +778,7 @@
     "main",
     "related-products",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
+    "icons_with_content_qRUKyQ",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
   ]
