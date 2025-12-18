@@ -23,16 +23,23 @@
           "settings": {
             "title": "100% Natural Ingredients"
           }
+        },
+        "text_Wyt8nB": {
+          "type": "text",
+          "settings": {
+            "title": "Satisfaction Guaranteed: Or Your Money Back"
+          }
         }
       },
       "block_order": [
         "text_JbMteW",
-        "text_UbJyRB"
+        "text_UbJyRB",
+        "text_Wyt8nB"
       ],
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 1.5,
         "direction": "normal",
         "stop_on_hover": false,
         "mobile_spacing": 60,
