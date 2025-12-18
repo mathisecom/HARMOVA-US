@@ -17,10 +17,17 @@
           "settings": {
             "title": "Free Shipping"
           }
+        },
+        "text_UbJyRB": {
+          "type": "text",
+          "settings": {
+            "title": "100% Natural Ingredients"
+          }
         }
       },
       "block_order": [
-        "text_JbMteW"
+        "text_JbMteW",
+        "text_UbJyRB"
       ],
       "name": "Horizontal Ticker",
       "settings": {
