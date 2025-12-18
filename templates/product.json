@@ -714,10 +714,10 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Testimonials",
+        "title": "What Our Customers Say",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
-        "text": "",
+        "text": "<p>2,500+ Satisfied Customers</p>",
         "color_scheme": "background-1",
         "image_width": "full",
         "image_ratio": "square",
