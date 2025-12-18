@@ -18,18 +18,18 @@
             "image": "shopify://shop_images/003_GALLERY_HARMOVA_1589e692.webp",
             "mobile_image": "shopify://shop_images/003_GALLERY_HARMOVA_1589e692.webp",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "atc_button_label": "",
             "atc_product": "",
             "atc_skip_cart": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "color_scheme": "background-1",
             "transparent_container_color": "white",
@@ -49,12 +49,12 @@
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
+        "show_text_below": false,
         "mobile_pagination_position": "under",
         "accessibility_info": "Slideshow about our brand"
       }
@@ -114,7 +114,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "color_scheme": "custom",
@@ -148,10 +148,10 @@
         "padding_bottom": 36,
         "custom_colors_background": "#fff5f7",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_cards_colors_background": "#fff5f7",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "testimonials_wiXiqz": {
@@ -235,12 +235,12 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     }
   },
