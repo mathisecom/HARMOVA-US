@@ -158,6 +158,7 @@
         "column_FQmigQ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/52.webp",
             "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -167,6 +168,7 @@
         "column_HxpQDd": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/50.webp",
             "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -176,6 +178,7 @@
         "column_6F8Um8": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
             "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
