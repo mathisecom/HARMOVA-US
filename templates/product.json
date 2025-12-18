@@ -9,6 +9,49 @@
  */
 {
   "sections": {
+    "horizontal_ticker_jTga6j": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_JbMteW": {
+          "type": "text",
+          "settings": {
+            "title": "Free Shipping"
+          }
+        }
+      },
+      "block_order": [
+        "text_JbMteW"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 14,
+        "desktop_text_size": 16,
+        "italic_text": true,
+        "uppercase_text": true,
+        "bold_text": true,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -26,11 +69,11 @@
           "type": "rating_stars",
           "settings": {
             "rating": 4.4,
-            "star_color": "#ffcc00",
+            "star_color": "#02b57b",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
-            "size": 16,
+            "label": "4.79/5 (+2,500 reviews)",
+            "size": 14,
             "alignment": "flex-start",
             "scroll_id": "",
             "margin_top": 0,
@@ -597,6 +640,7 @@
     }
   },
   "order": [
+    "horizontal_ticker_jTga6j",
     "main",
     "related-products",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
