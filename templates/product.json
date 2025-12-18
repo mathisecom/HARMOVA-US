@@ -614,6 +614,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/Reproductive-Health-Icon_1.avif",
             "title": "Icon with text",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
           }
@@ -623,6 +624,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/Healthy-Ovulation-Icon_1.avif",
             "title": "Icon with text",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
           }
@@ -632,6 +634,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/Cycle-Regularity-Icon_1_1.avif",
             "title": "Icon with text",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
           }
@@ -648,7 +651,7 @@
         "display_id": false,
         "visibility": "always-display",
         "color_scheme": "custom",
-        "icon_size": "m",
+        "icon_size": "l",
         "icon_position": "next-to-title",
         "icon_color": "accent-1",
         "icon_heading_size": "h3",
