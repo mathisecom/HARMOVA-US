@@ -364,11 +364,74 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
-            "heading_size": "medium",
-            "icon": "check_box",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_exMxdT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_DtHyaC": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_wTRYLA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_dXyTtD": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "small",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -391,7 +454,11 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_exMxdT",
+        "collapsible_tab_DtHyaC",
+        "collapsible_tab_wTRYLA",
+        "collapsible_tab_dXyTtD"
       ],
       "custom_css": [],
       "settings": {
