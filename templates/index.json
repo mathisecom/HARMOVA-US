@@ -15,6 +15,8 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/003_GALLERY_HARMOVA_1589e692.webp",
+            "mobile_image": "shopify://shop_images/003_GALLERY_HARMOVA_1589e692.webp",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -47,7 +49,7 @@
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
         "auto_rotate": false,
