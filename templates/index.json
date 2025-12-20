@@ -32,11 +32,37 @@
             "heading_size": "h1"
           }
         },
-        "text_xqKTcr": {
-          "type": "text",
+        "text_with_icon_JLJMcF": {
+          "type": "text_with_icon",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#121212",
+            "text_1": "Text with icon",
+            "text_2": "Text with icon",
+            "text_3": "Text with icon",
+            "icon_scale": 195,
+            "icon_color": "#121212",
+            "icon_1": "check_circle",
+            "filled_icon_1": false,
+            "custom_icon_1": "shopify://shop_images/Reproductive-Health-Icon_1.avif",
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "custom_icon_2": "shopify://shop_images/Healthy-Ovulation-Icon_1.avif",
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "custom_icon_3": "shopify://shop_images/Cycle-Regularity-Icon_1_1.avif",
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7"
           }
         },
         "button_Ab3UpQ": {
@@ -51,7 +77,7 @@
       "block_order": [
         "trustpilot_stars_LjEmGf",
         "heading_L6dDWp",
-        "text_xqKTcr",
+        "text_with_icon_JLJMcF",
         "button_Ab3UpQ"
       ],
       "name": "t:sections.image-with-text.presets.name",
