@@ -862,8 +862,8 @@
           "settings": {
             "image": "shopify://shop_images/Bacillus_coagulans_visualization.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Bacillus Coagulans",
+            "text": "<p>This probiotic is the only one that survives all the way to the vagina, where it restores pH balance, eliminates harmful bacteria, and supports the natural vaginal flora.</p>",
             "link_label": "",
             "link": ""
           }
@@ -873,8 +873,8 @@
           "settings": {
             "image": "shopify://shop_images/u3545688894_Create_a_vibrant_visualization_of_a_pineapple_Use_2b511932-d6ce-4a8d-aab6-f19b6e14d0fa_2_1.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Organic Pineapple Extract",
+            "text": "<p>Rich in natural vitamins and enzymes, it naturally neutralizes unwanted odors and helps maintain an ideal pH.</p>",
             "link_label": "",
             "link": ""
           }
@@ -884,8 +884,8 @@
           "settings": {
             "image": "shopify://shop_images/Vitamin-C_visualization.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Vitamin C",
+            "text": "<p>Essential for intimate health, it strengthens vaginal tissues, promotes natural lubrication, and makes daily activities more comfortable.</p>",
             "link_label": "",
             "link": ""
           }
