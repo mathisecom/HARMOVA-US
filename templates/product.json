@@ -963,21 +963,21 @@
         "row_H6H9n4": {
           "type": "row",
           "settings": {
-            "percentage": 90,
+            "percentage": 99,
             "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
         "row_gQUB6R": {
           "type": "row",
           "settings": {
-            "percentage": 90,
+            "percentage": 97,
             "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
         "row_JpRCiT": {
           "type": "row",
           "settings": {
-            "percentage": 90,
+            "percentage": 95,
             "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         }
@@ -999,9 +999,9 @@
         "video_muted_autoplay": true,
         "color_scheme": "custom",
         "layout": "results_second",
-        "results_headline": "Results heading",
+        "results_headline": "The numbers speak for themselves.",
         "results_title_highlight_color": "#6D388B",
-        "results_headline_size": "h2",
+        "results_headline_size": "h1",
         "results_text": "",
         "results_headline_alignment": "left",
         "caption": "<p><em>Based on over 2,500 verified customer reviews.</em></p>",
