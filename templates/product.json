@@ -638,6 +638,102 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
+    "horizontal_ticker_peQEDC": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "reviews_iq4nYe": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#F2F2F2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
+        },
+        "reviews_yMqTME": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#F2F2F2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
+        },
+        "reviews_6cy6KA": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#F2F2F2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_iq4nYe",
+        "reviews_yMqTME",
+        "reviews_6cy6KA"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 2,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "background-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "icons_with_content_qRUKyQ": {
       "type": "icons-with-content",
       "blocks": {
@@ -822,6 +918,7 @@
     "related-products",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "rich_text_xTBzrf",
+    "horizontal_ticker_peQEDC",
     "icons_with_content_qRUKyQ",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
