@@ -127,19 +127,27 @@
       "blocks": {
         "image_rEAcAA": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/2_e5e4eb2a-c559-4250-b874-823e2651f728.webp"
+          }
         },
         "image_3UJcm8": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/3_afc85d70-2339-4423-a2e9-40d260255894.webp"
+          }
         },
         "image_4GfXzg": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/4_5d620d52-0582-49ba-bf69-24ce8a67dc41.webp"
+          }
         },
         "image_NVdw6a": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/1_6ebb1c83-ae09-48e4-88d0-ecf8ab598592.webp"
+          }
         }
       },
       "block_order": [
@@ -154,24 +162,24 @@
         "speed": 3,
         "direction": "normal",
         "stop_on_hover": false,
-        "mobile_spacing": 60,
-        "desktop_spacing": 100,
+        "mobile_spacing": 50,
+        "desktop_spacing": 50,
         "color_scheme": "background-1",
         "mobile_text_size": 16,
         "desktop_text_size": 18,
         "italic_text": false,
         "uppercase_text": false,
         "bold_text": false,
-        "mobile_image_height": 26,
-        "desktop_image_height": 40,
+        "mobile_image_height": 22,
+        "desktop_image_height": 32,
         "mobile_reviews_width": 300,
         "desktop_reviews_width": 400,
         "hidden_products": "",
         "enable_specific_display": false,
         "displayed_products": "",
-        "mobile_padding_top": 12,
-        "mobile_padding_bottom": 12,
-        "desktop_padding_top": 16,
+        "mobile_padding_top": 32,
+        "mobile_padding_bottom": 20,
+        "desktop_padding_top": 44,
         "desktop_padding_bottom": 16,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
