@@ -75,8 +75,8 @@
         "button_Ab3UpQ": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "ENJOY THE OFFER",
+            "button_link": "shopify://products/intimate-balance-gummies",
             "button_style_secondary": false
           }
         }
