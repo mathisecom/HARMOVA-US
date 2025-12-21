@@ -566,8 +566,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Best seller #Tiktok",
-        "title_highlight_color": "#6d388b",
+        "title": "Best seller<strong> #Tiktok</strong>",
+        "title_highlight_color": "#ef5193",
         "heading_size": "h2",
         "color_scheme": "background-1",
         "type": "slide",
