@@ -186,70 +186,6 @@
         "custom_colors_text": "#2E2A39"
       }
     },
-    "horizontal_ticker_fQME8K": {
-      "type": "horizontal-ticker",
-      "blocks": {
-        "image_FkXz83": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2_e5e4eb2a-c559-4250-b874-823e2651f728.webp"
-          }
-        },
-        "image_fbng87": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/3_afc85d70-2339-4423-a2e9-40d260255894.webp"
-          }
-        },
-        "image_zix4fe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/4_5d620d52-0582-49ba-bf69-24ce8a67dc41.webp"
-          }
-        },
-        "image_Hc8PLt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_6ebb1c83-ae09-48e4-88d0-ecf8ab598592.webp"
-          }
-        }
-      },
-      "block_order": [
-        "image_FkXz83",
-        "image_fbng87",
-        "image_zix4fe",
-        "image_Hc8PLt"
-      ],
-      "name": "Horizontal Ticker",
-      "settings": {
-        "visibility": "always-display",
-        "speed": 3,
-        "direction": "normal",
-        "stop_on_hover": false,
-        "mobile_spacing": 50,
-        "desktop_spacing": 50,
-        "color_scheme": "background-1",
-        "mobile_text_size": 16,
-        "desktop_text_size": 18,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
-        "mobile_image_height": 22,
-        "desktop_image_height": 32,
-        "mobile_reviews_width": 300,
-        "desktop_reviews_width": 400,
-        "hidden_products": "",
-        "enable_specific_display": false,
-        "displayed_products": "",
-        "mobile_padding_top": 32,
-        "mobile_padding_bottom": 20,
-        "desktop_padding_top": 44,
-        "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
-      }
-    },
     "multicolumn_VMbHkf": {
       "type": "multicolumn",
       "blocks": {
@@ -771,6 +707,174 @@
         "desktop_padding_bottom": 36
       }
     },
+    "horizontal_ticker_fQME8K": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "image_FkXz83": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_e5e4eb2a-c559-4250-b874-823e2651f728.webp"
+          }
+        },
+        "image_fbng87": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_afc85d70-2339-4423-a2e9-40d260255894.webp"
+          }
+        },
+        "image_zix4fe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_5d620d52-0582-49ba-bf69-24ce8a67dc41.webp"
+          }
+        },
+        "image_Hc8PLt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_6ebb1c83-ae09-48e4-88d0-ecf8ab598592.webp"
+          }
+        }
+      },
+      "block_order": [
+        "image_FkXz83",
+        "image_fbng87",
+        "image_zix4fe",
+        "image_Hc8PLt"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 50,
+        "desktop_spacing": 50,
+        "color_scheme": "background-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 22,
+        "desktop_image_height": 32,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 32,
+        "mobile_padding_bottom": 20,
+        "desktop_padding_top": 44,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
+    "comparison_table_3JbkmM": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_EaBhp8": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_ixPYMx": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_N3WUhP": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        }
+      },
+      "block_order": [
+        "row_EaBhp8",
+        "row_ixPYMx",
+        "row_N3WUhP"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Say goodbye to vaginosis, odors, and discomfort!",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>After so many unsuccessful attempts, Harmova naturally restores your balance — without harsh treatments.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "desktop_alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "custom",
+        "layout": "table_second",
+        "style": "classic",
+        "corner_radius": 20,
+        "number_of_competitors": 1,
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "others_label": "Others",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "others_2_label": "Competitor 2",
+        "others_2_label_size": 18,
+        "others_2_logo_width": 90,
+        "others_2_mobile_logo_width": 60,
+        "others_3_label": "Competitor 3",
+        "others_3_label_size": 18,
+        "others_3_logo_width": 90,
+        "others_3_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53AF01",
+        "checkmark_bg_color": "#53AF01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2E2A39",
+        "custom_colors_highlighted_text": "#FFFFFF",
+        "custom_colors_others_background": "#FFFFFF",
+        "custom_colors_others_text": "#2E2A39"
+      }
+    },
     "testimonials_wiXiqz": {
       "type": "testimonials",
       "blocks": {
@@ -868,6 +972,7 @@
     "icon_bar_FzNk6e",
     "featured_product_GMTp7n",
     "horizontal_ticker_fQME8K",
+    "comparison_table_3JbkmM",
     "testimonials_wiXiqz"
   ]
 }
