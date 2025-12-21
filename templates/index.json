@@ -18,8 +18,8 @@
             "rating": 5,
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
-            "label": "(xxxx Reviews)",
+            "star_symbol_color": "#ffffff",
+            "label": "<strong>4,8/5</strong> | +1,139 avis",
             "size": 13,
             "scroll_id": ""
           }
@@ -27,8 +27,8 @@
         "heading_L6dDWp": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
-            "title_highlight_color": "#6D388B",
+            "title": "Prenez soin de votre <em><strong>santé vaginale</strong></em>",
+            "title_highlight_color": "#ef5193",
             "heading_size": "h1"
           }
         },
@@ -88,8 +88,8 @@
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
+        "color_scheme": "custom",
+        "section_color_scheme": "custom",
         "full_desktop_width": false,
         "content_layout": "no-overlap",
         "desktop_media_width": 50,
@@ -104,13 +104,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#fffaf4",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
-        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_text": "#121212",
+        "custom_colors_solid_button_background": "#ef5193",
         "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_colors_outline_button": "#ef5193",
+        "custom_section_colors_background": "#fffaf4",
         "custom_section_gradient_background": ""
       }
     },
@@ -218,7 +218,7 @@
             "rating": 5,
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "label": "(xxxx Reviews)",
             "size": 14,
             "alignment": "flex-start",
