@@ -605,6 +605,39 @@
         "custom_colors_text": "#121212"
       }
     },
+    "rich_text_xTBzrf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7YdzYG": {
+          "type": "heading",
+          "settings": {
+            "title": "<em><strong>3,000+ Women</strong></em> Are in Love with Harmova!",
+            "title_highlight_color": "#ef5193",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7YdzYG"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "icons_with_content_qRUKyQ": {
       "type": "icons-with-content",
       "blocks": {
@@ -788,6 +821,7 @@
     "main",
     "related-products",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
+    "rich_text_xTBzrf",
     "icons_with_content_qRUKyQ",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
