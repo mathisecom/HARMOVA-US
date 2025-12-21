@@ -545,9 +545,15 @@
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
-            "secondary_btn_custom_color": "#dd1d1d",
+            "secondary_btn_custom_color": "#ef5193",
             "margin_top": 24,
             "margin_bottom": 24
+          }
+        },
+        "custom_liquid_4JD7FD": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
           }
         },
         "collapsible_tab_rDyEpd": {
@@ -638,6 +644,7 @@
         "title_B8R7HQ",
         "variant_picker_nMUMYt",
         "buy_buttons_dKdg3H",
+        "custom_liquid_4JD7FD",
         "collapsible_tab_rDyEpd",
         "collapsible_tab_Cic3Mb",
         "collapsible_tab_iURbdL",
