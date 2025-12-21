@@ -854,6 +854,7 @@
         "column_CJJaE3": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Bacillus_coagulans_visualization.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -864,6 +865,7 @@
         "column_LdMfVp": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/u3545688894_Create_a_vibrant_visualization_of_a_pineapple_Use_2b511932-d6ce-4a8d-aab6-f19b6e14d0fa_2_1.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -874,6 +876,7 @@
         "column_d7GgPm": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Vitamin-C_visualization.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -905,7 +908,7 @@
         "stretch_cards": false,
         "stretched_cards_content_alignment": "center",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "circle",
         "media_position": "top",
         "column_alignment": "center",
         "desktop_heading_size": 24,
