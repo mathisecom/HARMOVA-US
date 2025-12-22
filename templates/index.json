@@ -527,6 +527,48 @@
             "margin_bottom": 15
           }
         },
+        "emoji_benefits_fAYKct": {
+          "type": "emoji_benefits",
+          "settings": {
+            "benefits": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "text_ezUjFC": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 13,
+            "desktop_text_size": 15,
+            "alignment": "left",
+            "text_color": "#121212",
+            "text_1": "<strong>Supports pH and yeast balance</strong>",
+            "text_2": "<strong>Eliminates vaginal odors</strong>",
+            "text_3": "<strong>Balances hormones and mood</strong>",
+            "icon_scale": 200,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "custom_icon_1": "shopify://shop_images/Reproductive-Health-Icon_1.avif",
+            "icon_2": "",
+            "filled_icon_2": false,
+            "custom_icon_2": "shopify://shop_images/Healthy-Ovulation-Icon_1.avif",
+            "icon_3": "",
+            "filled_icon_3": false,
+            "custom_icon_3": "shopify://shop_images/Cycle-Regularity-Icon_1_1.avif",
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "variant_picker_nMUMYt": {
           "type": "variant_picker",
           "settings": {
@@ -675,6 +717,8 @@
         "trustpilot_stars_4wDnpN",
         "text_9KzWdQ",
         "title_B8R7HQ",
+        "emoji_benefits_fAYKct",
+        "text_ezUjFC",
         "variant_picker_nMUMYt",
         "buy_buttons_dKdg3H",
         "custom_liquid_4JD7FD",
