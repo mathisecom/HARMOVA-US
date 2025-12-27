@@ -1003,6 +1003,7 @@
             "checkmark_color": "#6d388b",
             "checkmark_icon_color": "#ffffff",
             "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/52.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
           }
         },
@@ -1022,6 +1023,7 @@
             "checkmark_color": "#6d388b",
             "checkmark_icon_color": "#ffffff",
             "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
           }
         },
@@ -1041,6 +1043,7 @@
             "checkmark_color": "#6d388b",
             "checkmark_icon_color": "#ffffff",
             "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/50.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
           }
         }
@@ -1072,7 +1075,7 @@
         "enable_specific_display": false,
         "displayed_products": "",
         "mobile_padding_top": 12,
-        "mobile_padding_bottom": 36,
+        "mobile_padding_bottom": 48,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 40,
         "custom_colors_background": "#ffffff",
