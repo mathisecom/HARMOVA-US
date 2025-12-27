@@ -225,6 +225,7 @@
         "column_Upqrzt": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-6.gif",
             "muted_autoplay": true,
             "title": "",
             "text": "",
@@ -235,6 +236,7 @@
         "column_D8t4VT": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-5.gif",
             "muted_autoplay": true,
             "title": "",
             "text": "",
@@ -245,6 +247,7 @@
         "column_6qq6bJ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-7.gif",
             "muted_autoplay": true,
             "title": "",
             "text": "",
@@ -275,8 +278,8 @@
         "cards_corner_radius": 20,
         "stretch_cards": false,
         "stretched_cards_content_alignment": "center",
-        "image_width": "half",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "portrait",
         "media_position": "top",
         "column_alignment": "center",
         "desktop_heading_size": 24,
