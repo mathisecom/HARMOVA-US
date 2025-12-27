@@ -1089,7 +1089,7 @@
         "row_EaBhp8": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "100% Natural",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1099,7 +1099,7 @@
         "row_ixPYMx": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Targeted Probiotic (Bacillus Coagulans)",
             "us": true,
             "others": false,
             "others_2": false,
