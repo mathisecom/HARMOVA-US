@@ -44,7 +44,7 @@
         "stop_on_hover": false,
         "mobile_spacing": 60,
         "desktop_spacing": 100,
-        "color_scheme": "accent-1",
+        "color_scheme": "custom",
         "mobile_text_size": 14,
         "desktop_text_size": 16,
         "italic_text": true,
@@ -61,9 +61,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#ffffff",
+        "custom_colors_background": "#f96e91",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39"
+        "custom_colors_text": "#ffffff"
       }
     },
     "main": {
@@ -746,7 +746,7 @@
         "image_Gx4KgD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/113.webp",
+            "image": "shopify://shop_images/nano-banana-2025-10-10T00-07-42.webp",
             "atc_product": "",
             "atc_skip_cart": false
           }
@@ -814,6 +814,71 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
+    "results_QHeAne": {
+      "type": "results",
+      "blocks": {
+        "row_H6H9n4": {
+          "type": "row",
+          "settings": {
+            "percentage": 99,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          }
+        },
+        "row_gQUB6R": {
+          "type": "row",
+          "settings": {
+            "percentage": 97,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          }
+        },
+        "row_JpRCiT": {
+          "type": "row",
+          "settings": {
+            "percentage": 95,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "row_H6H9n4",
+        "row_gQUB6R",
+        "row_JpRCiT"
+      ],
+      "name": "Results",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "image": "shopify://shop_images/Pack7.webp",
+        "video_muted_autoplay": true,
+        "color_scheme": "custom",
+        "layout": "results_second",
+        "results_headline": "The numbers speak for themselves.",
+        "results_title_highlight_color": "#6d388b",
+        "results_headline_size": "h1",
+        "results_text": "",
+        "results_headline_alignment": "left",
+        "caption": "<p><em>Based on over 2,500 verified customer reviews.</em></p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212",
+        "custom_colors_accent": "#ef5193",
+        "custom_colors_solid_button_background": "#ffffff",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#ffffff"
+      }
+    },
     "rich_text_PUYkDn": {
       "type": "rich-text",
       "blocks": {
@@ -836,6 +901,7 @@
         "heading_d6xKV6",
         "text_j9KeyR"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "display_id": false,
@@ -896,6 +962,7 @@
         "column_LdMfVp",
         "column_d7GgPm"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "display_id": false,
@@ -961,71 +1028,6 @@
         "custom_cards_gradient_background": "",
         "custom_cards_colors_heading": "#222126",
         "custom_cards_colors_text": "#2e2a39"
-      }
-    },
-    "results_QHeAne": {
-      "type": "results",
-      "blocks": {
-        "row_H6H9n4": {
-          "type": "row",
-          "settings": {
-            "percentage": 99,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "row_gQUB6R": {
-          "type": "row",
-          "settings": {
-            "percentage": 97,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "row_JpRCiT": {
-          "type": "row",
-          "settings": {
-            "percentage": 95,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "row_H6H9n4",
-        "row_gQUB6R",
-        "row_JpRCiT"
-      ],
-      "name": "Results",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "",
-        "image": "shopify://shop_images/115_c1ec2ab9-ce36-4701-bdf0-2ae3b753663e.webp",
-        "video_muted_autoplay": true,
-        "color_scheme": "custom",
-        "layout": "results_second",
-        "results_headline": "The numbers speak for themselves.",
-        "results_title_highlight_color": "#6d388b",
-        "results_headline_size": "h1",
-        "results_text": "",
-        "results_headline_alignment": "left",
-        "caption": "<p><em>Based on over 2,500 verified customer reviews.</em></p>",
-        "button_label": "",
-        "link": "",
-        "button_style_secondary": false,
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ef5193",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff",
-        "custom_colors_accent": "#ffffff",
-        "custom_colors_solid_button_background": "#ffffff",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#ffffff"
       }
     },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
@@ -1140,9 +1142,9 @@
     "rich_text_xTBzrf",
     "horizontal_ticker_peQEDC",
     "icons_with_content_qRUKyQ",
+    "results_QHeAne",
     "rich_text_PUYkDn",
     "multicolumn_EWhAiz",
-    "results_QHeAne",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
   ]
