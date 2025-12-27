@@ -1109,7 +1109,27 @@
         "row_N3WUhP": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Gummies with a delicious pineapple flavor",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_AYAjgf": {
+          "type": "row",
+          "settings": {
+            "benefit": "Results in as little as 7 days",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_rbbzKg": {
+          "type": "row",
+          "settings": {
+            "benefit": "Sugar-free, vegan, gluten-free, and GMO-free",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1120,7 +1140,9 @@
       "block_order": [
         "row_EaBhp8",
         "row_ixPYMx",
-        "row_N3WUhP"
+        "row_N3WUhP",
+        "row_AYAjgf",
+        "row_rbbzKg"
       ],
       "name": "Comparison table",
       "settings": {
@@ -1161,8 +1183,8 @@
         "others_3_logo_width": 90,
         "others_3_mobile_logo_width": 60,
         "checkmark_style": "regular",
-        "checkmark_color": "#53af01",
-        "checkmark_bg_color": "#53af01",
+        "checkmark_color": "#ef5193",
+        "checkmark_bg_color": "#ef5193",
         "x_style": "regular",
         "x_color": "#121212",
         "x_bg_color": "#dbdbdb",
