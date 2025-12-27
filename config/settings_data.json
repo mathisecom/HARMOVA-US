@@ -354,7 +354,6 @@
           },
           "631b0e34-4299-400e-9f4d-c107c08cce01": {
             "type": "discount_field",
-            "disabled": true,
             "settings": {
               "bottom_separator": true,
               "placeholder": "Enter discount code",
@@ -393,8 +392,8 @@
             "settings": {
               "show_additional_checkout_buttons": false,
               "display_price": false,
-              "enable_custom_color": false,
-              "custom_color": "#dd1d1d",
+              "enable_custom_color": true,
+              "custom_color": "#ef5193",
               "icon_scale": 120,
               "icon_spacing": 10,
               "margin_top": 15,
