@@ -1145,30 +1145,60 @@
         "collapsible_row_JFx7kM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I take these gummies with other supplements?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Yes, our gummies can be taken safely with your vitamins and other daily supplements.</p>",
             "page": ""
           }
         },
         "collapsible_row_9MNhPJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How often should I take the gummies?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Take 2 gummies per day, preferably with a meal for optimal absorption.</p><p><strong>Recommended duration:</strong> </p><p>👉 1 month to naturally strengthen and rebalance your vaginal flora. </p><p>👉 3 months in case of recurrent yeast infections, vaginosis, or imbalances. </p><p>👉 Maintenance: 1 to 2 times a year, or as a continuous treatment depending on your needs. </p><p>Visible results within the first 7 days with regular use.</p>",
             "page": ""
           }
         },
         "collapsible_row_FMgKAb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Are gummies natural and healthy for me?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Yes, our formula is completely natural, vegan, and free from artificial additives. Each ingredient is rigorously selected and tested to ensure safe daily use. </p><p>The probiotic strain we use, Bacillus coagulans, is clinically proven to be safe and effective for long-term use.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Fe3N79": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use them if I don't have any odor problems?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Yes! Intimate Balance gummies can be used to maintain vaginal freshness and health, even if you are not currently experiencing odor or imbalance.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rQM8i7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are they vegan and gluten-free?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Yes, absolutely! Our gummies are vegan, gluten-free, non-GMO, and halal, so they're perfect for a variety of dietary preferences!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mfwabJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there any side effects?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our Intimate Balance gummies are formulated to work naturally with your body's microbiome. Unlike harsh treatments or antibiotics that can disrupt your vaginal flora, our heat-resistant probiotic strain gently colonizes and restores balance. </p><p>You won't experience the typical side effects of other vaginal products, such as burning, irritation, or increased dryness. A few key points women should know: No disruption to natural pH: our probiotic produces L-lactic acid, identical to that of your good bacteria. No yeast infections: unlike other treatments, our gummies do not cause candidiasis. </p><p>No digestive problems: our strain is gentle on the stomach and causes no discomfort. 100% natural: no chemicals or artificial ingredients. So you can use our gummies with confidence, without fear of the usual side effects of other vaginal products.</p>",
             "page": ""
           }
         }
@@ -1178,7 +1208,10 @@
         "collapsible_row_qgkpUG",
         "collapsible_row_JFx7kM",
         "collapsible_row_9MNhPJ",
-        "collapsible_row_FMgKAb"
+        "collapsible_row_FMgKAb",
+        "collapsible_row_Fe3N79",
+        "collapsible_row_rQM8i7",
+        "collapsible_row_mfwabJ"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
