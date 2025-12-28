@@ -1201,6 +1201,26 @@
             "row_content": "<p>Our Intimate Balance gummies are formulated to work naturally with your body's microbiome. Unlike harsh treatments or antibiotics that can disrupt your vaginal flora, our heat-resistant probiotic strain gently colonizes and restores balance. </p><p>You won't experience the typical side effects of other vaginal products, such as burning, irritation, or increased dryness. A few key points women should know: No disruption to natural pH: our probiotic produces L-lactic acid, identical to that of your good bacteria. No yeast infections: unlike other treatments, our gummies do not cause candidiasis. </p><p>No digestive problems: our strain is gentle on the stomach and causes no discomfort. 100% natural: no chemicals or artificial ingredients. So you can use our gummies with confidence, without fear of the usual side effects of other vaginal products.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_wWtYVb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it suitable for pregnant or breastfeeding women?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>If you are pregnant or breastfeeding, it is crucial to consult your doctor before taking any supplements. Even though our ingredients are 100% natural and safe, your doctor will be able to give you personalized advice to ensure your safety and that of your baby.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_n9RN9P": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do gummies contain sugar? Are they suitable for people with diabetes?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our gummies contain 0 grams of sugar, making them ideal for people with diabetes or those looking to reduce their sugar intake. You can enjoy them with confidence, without worrying about affecting your blood sugar levels.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1211,7 +1231,9 @@
         "collapsible_row_FMgKAb",
         "collapsible_row_Fe3N79",
         "collapsible_row_rQM8i7",
-        "collapsible_row_mfwabJ"
+        "collapsible_row_mfwabJ",
+        "collapsible_row_wWtYVb",
+        "collapsible_row_n9RN9P"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
