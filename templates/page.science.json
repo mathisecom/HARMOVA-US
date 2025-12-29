@@ -25,6 +25,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/IMAGE_COMPOSANT_3_650x_212815f1-e418-4d21-a79d-89c71c9d3ce6.webp",
             "title": "Icon with text",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
           }
@@ -34,6 +35,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/IMAGE_COMPOSANT_2_650x_9cd0bfc6-3995-4bda-a7cc-a9c4587b675e.webp",
             "title": "Icon with text",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
           }
@@ -43,6 +45,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/IMAGE_COMPOSANT_650x_5aed1d20-b2ef-431c-acd4-b16e4c1eedec.webp",
             "title": "Icon with text",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
           }
@@ -84,8 +87,8 @@
         "display_id": false,
         "visibility": "always-display",
         "color_scheme": "custom",
-        "icon_size": "m",
-        "icon_position": "next-to-title",
+        "icon_size": "xxl",
+        "icon_position": "next-to-text",
         "icon_color": "accent-1",
         "icon_heading_size": "h3",
         "icon_text_alignment": "left",
