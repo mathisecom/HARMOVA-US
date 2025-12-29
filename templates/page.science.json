@@ -114,7 +114,7 @@
         "row_nDTnGC": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Acts deeply on the intimate flora.",
             "us": true,
             "others": false,
             "others_2": false,
@@ -124,7 +124,17 @@
         "row_MMixcD": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Eliminates the bacteria responsible for odors and infections.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_N6bpKK": {
+          "type": "row",
+          "settings": {
+            "benefit": "Visible results in 7 days, flora stabilized in 30 days.",
             "us": true,
             "others": false,
             "others_2": false,
@@ -134,7 +144,7 @@
         "row_J9tUL6": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "80% of women experience no recurrence after the treatment.",
             "us": true,
             "others": false,
             "others_2": false,
@@ -145,6 +155,7 @@
       "block_order": [
         "row_nDTnGC",
         "row_MMixcD",
+        "row_N6bpKK",
         "row_J9tUL6"
       ],
       "name": "Comparison table",
