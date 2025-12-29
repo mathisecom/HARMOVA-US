@@ -107,10 +107,150 @@
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
       }
+    },
+    "image_with_text_3UkU4i": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VTmezW": {
+          "type": "heading",
+          "settings": {
+            "title": "Visible results in as little as 7 days",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_meGWt3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Bacillus coagulans SNZ1969™ found in the Harmova formula has demonstrated a long-lasting reduction in vaginal symptoms, with no recurrence, in 80% of women, compared to only 45% in those treated with antibiotics alone.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VTmezW",
+        "text_meGWt3"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/harmova-2-8_17b9d799-65ba-4e5b-a007-d691583cf8d5.webp",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "icon_bar_KYHeDR": {
+      "type": "icon-bar",
+      "blocks": {
+        "column_kTVGKy": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "column_g9PcFb": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "column_dVN9HH": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_kTVGKy",
+        "column_g9PcFb",
+        "column_dVN9HH"
+      ],
+      "name": "Icon Bar",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "A return to <strong>normal</strong>",
+        "title_highlight_color": "#ef5193",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "custom",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#fff5f7",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
     }
   },
   "order": [
     "main",
-    "icons_with_content_hHkb7j"
+    "icons_with_content_hHkb7j",
+    "image_with_text_3UkU4i",
+    "icon_bar_KYHeDR"
   ]
 }
