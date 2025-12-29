@@ -150,13 +150,24 @@
             "others_2": false,
             "others_3": false
           }
+        },
+        "row_c79zkx": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Powerful actives, zero unnecessary ingredients.</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
         }
       },
       "block_order": [
         "row_nDTnGC",
         "row_MMixcD",
         "row_N6bpKK",
-        "row_J9tUL6"
+        "row_J9tUL6",
+        "row_c79zkx"
       ],
       "name": "Comparison table",
       "settings": {
