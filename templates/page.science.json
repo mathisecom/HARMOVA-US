@@ -50,7 +50,7 @@
         "heading_gWcdiG": {
           "type": "heading",
           "settings": {
-            "title": "Content heading",
+            "title": "The solution: Triflora Balance™ by Harmova.",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1"
           }
@@ -58,7 +58,7 @@
         "text_TATp7N": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Harmova is based on an exclusive complex, TriFlora Balance™, a synergy of 3 carefully selected and clinically validated active ingredients, designed to deeply restore the balance of the intimate flora:</p>",
             "text_style": "body"
           }
         },
