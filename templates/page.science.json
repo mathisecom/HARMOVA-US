@@ -174,8 +174,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/ICONE_1.svg",
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "After 7 days",
+            "text": "<p>First signs of comfort, a feeling of freshness, and soothing relief.</p>"
           }
         },
         "column_g9PcFb": {
@@ -184,8 +184,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/ICONE_2.svg",
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "After 15 days",
+            "text": "<p>Reduced odors, rebalanced pH, fewer infections.</p>"
           }
         },
         "column_dVN9HH": {
@@ -194,8 +194,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/ICONE_3.svg",
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "After 30 days",
+            "text": "<p>Flora stabilized, enhanced protection, intimate well-being restored.</p>"
           }
         }
       },
