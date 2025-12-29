@@ -154,7 +154,17 @@
         "row_c79zkx": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Powerful actives, zero unnecessary ingredients.</strong>",
+            "benefit": "Powerful actives, zero unnecessary ingredients.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_KRmTez": {
+          "type": "row",
+          "settings": {
+            "benefit": "Developed with specialist doctors in intimate health.",
             "us": true,
             "others": false,
             "others_2": false,
@@ -167,7 +177,8 @@
         "row_MMixcD",
         "row_N6bpKK",
         "row_J9tUL6",
-        "row_c79zkx"
+        "row_c79zkx",
+        "row_KRmTez"
       ],
       "name": "Comparison table",
       "settings": {
