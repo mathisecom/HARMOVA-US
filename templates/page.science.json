@@ -11,13 +11,103 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "icons_with_content_hHkb7j": {
+      "type": "icons-with-content",
+      "blocks": {
+        "icon_jc4kbp": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "icon_JxkBtz": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "icon_UknhA7": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "heading_gWcdiG": {
+          "type": "heading",
+          "settings": {
+            "title": "Content heading",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_TATp7N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "image_3xpwen": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PACKAGING.webp",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "icon_jc4kbp",
+        "icon_JxkBtz",
+        "icon_UknhA7",
+        "heading_gWcdiG",
+        "text_TATp7N",
+        "image_3xpwen"
+      ],
+      "name": "Icons with content",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "icon_size": "m",
+        "icon_position": "next-to-title",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "text_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "icons_with_content_hHkb7j"
   ]
 }
