@@ -26,8 +26,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/IMAGE_COMPOSANT_3_650x_212815f1-e418-4d21-a79d-89c71c9d3ce6.webp",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "title": "Bacillus coagulans SNZ1969™",
+            "text": "<p>A patented, gastro-resistant probiotic strain capable of reaching the vaginal flora to support lactobacilli and maintain a balanced intimate pH.</p>"
           }
         },
         "icon_JxkBtz": {
@@ -36,8 +36,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/IMAGE_COMPOSANT_2_650x_9cd0bfc6-3995-4bda-a7cc-a9c4587b675e.webp",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "title": "Pineapple extract (bromelain)",
+            "text": "<p>A natural enzyme that acts as a gentle anti-inflammatory to soothe the mucous membranes and help maintain a healthy intimate odor.</p>"
           }
         },
         "icon_UknhA7": {
@@ -46,15 +46,15 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/IMAGE_COMPOSANT_650x_5aed1d20-b2ef-431c-acd4-b16e4c1eedec.webp",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "title": "Vitamin C (ascorbic acid)",
+            "text": "<p>An essential nutrient to support local immunity, protect vaginal tissues, and stimulate natural lubrication.</p>"
           }
         },
         "heading_gWcdiG": {
           "type": "heading",
           "settings": {
             "title": "The solution: Triflora Balance™ by Harmova.",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
         },
@@ -102,7 +102,7 @@
         "padding_bottom": 36,
         "custom_colors_background": "#fff5f7",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -185,7 +185,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "button_label": "",
@@ -219,11 +219,11 @@
         "others_3_logo_width": 90,
         "others_3_mobile_logo_width": 60,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
         "x_style": "regular",
         "x_color": "#121212",
-        "x_bg_color": "#DBDBDB",
+        "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
         "highlighted_color_scheme": "accent-1",
         "highlighted_separator_opacity": 0,
@@ -236,14 +236,14 @@
         "padding_bottom": 36,
         "custom_colors_background": "#fff5f7",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_colors_highlighted_background": "#2E2A39",
-        "custom_colors_highlighted_text": "#FFFFFF",
-        "custom_colors_others_background": "#FFFFFF",
-        "custom_colors_others_text": "#2E2A39"
+        "custom_colors_highlighted_background": "#2e2a39",
+        "custom_colors_highlighted_text": "#ffffff",
+        "custom_colors_others_background": "#ffffff",
+        "custom_colors_others_text": "#2e2a39"
       }
     },
     "image_with_text_3UkU4i": {
@@ -253,7 +253,7 @@
           "type": "heading",
           "settings": {
             "title": "Visible results in as little as 7 days",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
         },
@@ -293,13 +293,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -381,10 +381,10 @@
         "padding_bottom": 36,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_cards_colors_background": "#fff5f7",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     }
   },
