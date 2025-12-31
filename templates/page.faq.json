@@ -23,40 +23,40 @@
         "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "When will I receive my gummies?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>We know you can’t wait to receive your gummies! Once your order is placed, it will be shipped within 24 hours, and you’ll receive your package within 5 to 7 business days via La Poste, depending on your location. Hang tight — it’ll arrive soon!</p>",
             "page": ""
           }
         },
         "collapsible_row_XVxzEV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What if my package takes a while to arrive?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Sometimes, the magic of La Poste takes a little longer than expected. If your order is delayed, contact our team with your order number on the contact page or via email: <a href=\"mailto:contact@myharmova.com\">contact@myharmova.com</a>. </p><p>We’ll take care of everything to ensure you receive your mask as quickly as possible.</p>",
             "page": ""
           }
         },
         "collapsible_row_FC4j7D": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How can I track my order?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Of course! As soon as your package is on its way, you’ll receive a tracking number by email. You can follow every step of its journey right to your door.</p>",
             "page": ""
           }
         },
         "collapsible_row_NnRWGF": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What if I’m not satisfied or if I change my mind?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Don’t worry, we’ve got you! If for any reason you’re not completely satisfied with your gummies, you’re covered by our 30-day money-back guarantee. </p><p>Just contact us, and we’ll take care of the rest.</p>",
             "page": ""
           }
         }
@@ -71,8 +71,86 @@
         "display_id": false,
         "visibility": "always-display",
         "caption": "",
-        "title": "FAQ",
-        "title_highlight_color": "#6d388b",
+        "title": "Delivery & Returns",
+        "title_highlight_color": "#121212",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "collapsible_content_9TiwUQ": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_hVDL8d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_imMcqb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_mmaAn3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_nkVmF4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_hVDL8d",
+        "collapsible_row_imMcqb",
+        "collapsible_row_mmaAn3",
+        "collapsible_row_nkVmF4"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "<em><strong>Harmova</strong></em> Gummies",
+        "title_highlight_color": "#ef5193",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -98,6 +176,7 @@
   },
   "order": [
     "main",
-    "9c121ec4-42cd-4c8e-82a2-935e073db7d7"
+    "9c121ec4-42cd-4c8e-82a2-935e073db7d7",
+    "collapsible_content_9TiwUQ"
   ]
 }
