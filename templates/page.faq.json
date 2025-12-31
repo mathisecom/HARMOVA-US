@@ -138,16 +138,6 @@
             "page": ""
           }
         },
-        "collapsible_row_VpFXpj": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Are the gummies natural and safe for my health?",
-            "icon": "",
-            "filled_icon": false,
-            "row_content": "<p>Take 2 gummies per day, preferably with a meal for optimal absorption.<br/><br/><strong>Recommended duration:</strong><br/><br/>👉 1 month to naturally strengthen and rebalance your vaginal flora.<br/>👉 3 months in case of yeast infections, bacterial vaginosis, or recurring imbalances.<br/>👉 For maintenance: 1 to 2 times per year, or as a continuous course depending on your needs.<br/><br/><strong>Visible results can be seen within the first 7 days</strong> with regular use.</p>",
-            "page": ""
-          }
-        },
         "collapsible_row_9ewE3T": {
           "type": "collapsible_row",
           "settings": {
@@ -157,6 +147,16 @@
             "row_content": "<p>Yes, our formula is completely natural, vegan, and free from artificial additives. Each ingredient is carefully selected and tested to ensure safe daily use. </p><p>The probiotic strain we use, <strong>Bacillus coagulans</strong>, is clinically proven to be safe and effective for long-term use.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_Ng8ptr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use them even if I don’t have odor issues?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Yes! The <strong>Intimate Balance gummies</strong> can be used to maintain vaginal freshness and health, even if you don’t currently experience odor or imbalances.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -164,8 +164,8 @@
         "collapsible_row_imMcqb",
         "collapsible_row_mmaAn3",
         "collapsible_row_nkVmF4",
-        "collapsible_row_VpFXpj",
-        "collapsible_row_9ewE3T"
+        "collapsible_row_9ewE3T",
+        "collapsible_row_Ng8ptr"
       ],
       "settings": {
         "display_id": false,
