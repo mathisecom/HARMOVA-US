@@ -167,6 +167,16 @@
             "row_content": "<p>Yes, absolutely! Our gummies are vegan, gluten-free, non-GMO, and halal, making them perfect for a wide range of dietary preferences.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_8EiD4h": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there any side effects?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our <strong>Intimate Balance gummies</strong> are formulated to work naturally with your body’s microbiome. Unlike harsh treatments or antibiotics that can disrupt your vaginal flora, our heat-resistant probiotic strain gently colonizes and restores balance.</p><p>You won’t experience the typical side effects of other vaginal products, such as burning, irritation, or increased dryness. Key points women should know:</p><ul><li><strong>No disruption of natural pH:</strong> Our probiotic produces L-lactic acid, identical to that of your good bacteria.<br/></li><li><strong>No yeast infections:</strong> Unlike other treatments, our gummies do not cause candidiasis.<br/></li><li><strong>No digestive issues:</strong> Our strain is gentle on the stomach and causes no discomfort.<br/></li><li><strong>100% natural:</strong> Free from chemicals and artificial ingredients.<br/></li></ul><p>This means you can use our gummies with confidence, without worrying about the usual side effects of other vaginal products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -176,7 +186,8 @@
         "collapsible_row_nkVmF4",
         "collapsible_row_9ewE3T",
         "collapsible_row_Ng8ptr",
-        "collapsible_row_8FR4Ux"
+        "collapsible_row_8FR4Ux",
+        "collapsible_row_8EiD4h"
       ],
       "settings": {
         "display_id": false,
