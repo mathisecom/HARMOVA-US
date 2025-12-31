@@ -187,6 +187,16 @@
             "row_content": "<p>If you are pregnant or breastfeeding, it is essential to consult your doctor before taking any supplement. Even though our ingredients are 100% natural and safe, your doctor can provide personalized advice to ensure the safety of both you and your baby.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_LLJdan": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do the gummies contain sugar? Are they suitable for people with diabetes?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our gummies contain 0 grams of sugar, making them perfectly suitable for people with diabetes or anyone looking to reduce their sugar intake. You can enjoy them with confidence, without worrying about affecting your blood sugar levels.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -198,7 +208,8 @@
         "collapsible_row_Ng8ptr",
         "collapsible_row_8FR4Ux",
         "collapsible_row_8EiD4h",
-        "collapsible_row_zC3rEb"
+        "collapsible_row_zC3rEb",
+        "collapsible_row_LLJdan"
       ],
       "settings": {
         "display_id": false,
