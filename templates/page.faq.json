@@ -157,6 +157,16 @@
             "row_content": "<p>Yes! The <strong>Intimate Balance gummies</strong> can be used to maintain vaginal freshness and health, even if you don’t currently experience odor or imbalances.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_8FR4Ux": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are they vegan and gluten-free?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Yes, absolutely! Our gummies are vegan, gluten-free, non-GMO, and halal, making them perfect for a wide range of dietary preferences.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -165,7 +175,8 @@
         "collapsible_row_mmaAn3",
         "collapsible_row_nkVmF4",
         "collapsible_row_9ewE3T",
-        "collapsible_row_Ng8ptr"
+        "collapsible_row_Ng8ptr",
+        "collapsible_row_8FR4Ux"
       ],
       "settings": {
         "display_id": false,
