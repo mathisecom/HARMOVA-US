@@ -121,20 +121,20 @@
         "collapsible_row_mmaAn3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I take these gummies with other supplements?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Yes, our gummies can be safely taken alongside your vitamins and other daily supplements.</p>",
             "page": ""
           }
         },
         "collapsible_row_nkVmF4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How often should I take the gummies?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Take 2 gummies per day, preferably with a meal for optimal absorption.<br/><br/><strong>Recommended duration:</strong><br/><br/>👉 1 month to naturally strengthen and rebalance your vaginal flora.<br/>👉 3 months in case of yeast infections, bacterial vaginosis, or recurring imbalances.<br/>👉 For maintenance: 1 to 2 times per year, or as a continuous course depending on your needs.<br/><br/><strong>Visible results can be seen within the first 7 days</strong> with regular use.</p>",
             "page": ""
           }
         }
