@@ -177,6 +177,16 @@
             "row_content": "<p>Our <strong>Intimate Balance gummies</strong> are formulated to work naturally with your body’s microbiome. Unlike harsh treatments or antibiotics that can disrupt your vaginal flora, our heat-resistant probiotic strain gently colonizes and restores balance.</p><p>You won’t experience the typical side effects of other vaginal products, such as burning, irritation, or increased dryness. Key points women should know:</p><ul><li><strong>No disruption of natural pH:</strong> Our probiotic produces L-lactic acid, identical to that of your good bacteria.<br/></li><li><strong>No yeast infections:</strong> Unlike other treatments, our gummies do not cause candidiasis.<br/></li><li><strong>No digestive issues:</strong> Our strain is gentle on the stomach and causes no discomfort.<br/></li><li><strong>100% natural:</strong> Free from chemicals and artificial ingredients.<br/></li></ul><p>This means you can use our gummies with confidence, without worrying about the usual side effects of other vaginal products.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_zC3rEb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it suitable for pregnant or breastfeeding women?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>If you are pregnant or breastfeeding, it is essential to consult your doctor before taking any supplement. Even though our ingredients are 100% natural and safe, your doctor can provide personalized advice to ensure the safety of both you and your baby.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -187,7 +197,8 @@
         "collapsible_row_9ewE3T",
         "collapsible_row_Ng8ptr",
         "collapsible_row_8FR4Ux",
-        "collapsible_row_8EiD4h"
+        "collapsible_row_8EiD4h",
+        "collapsible_row_zC3rEb"
       ],
       "settings": {
         "display_id": false,
