@@ -402,7 +402,7 @@
           "68fdc0a0-cd7c-40b9-97b3-a76eb7917a47": {
             "type": "payment_badges",
             "settings": {
-              "enabled_payment_types": "",
+              "enabled_payment_types": "american_express, apple_pay,maestro, master, paypal,visa",
               "margin_top": 12,
               "margin_bottom": 12
             }
