@@ -908,6 +908,7 @@
         "column_aqmYfX",
         "column_rYYDpF"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "display_id": false,
