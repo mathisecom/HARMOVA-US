@@ -224,8 +224,8 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "Free Shipping",
-            "text_2": "Shipped within 48 hours",
+            "text_1": "<strong>Free Shipping</strong>",
+            "text_2": "<strong>Shipped within 48 hours</strong>",
             "text_3": "",
             "icon_scale": 120,
             "icon_color": "#121212",
@@ -246,8 +246,41 @@
             "padding": 3,
             "border_size": 0,
             "border_color": "#b7b7b7",
-            "margin_top": 15,
-            "margin_bottom": 15
+            "margin_top": 6,
+            "margin_bottom": 3
+          }
+        },
+        "reviews_8UgFbe": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "background-1",
+            "show_custom_bg": true,
+            "custom_bg_color": "#fffafb",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#b7b7b7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#02b57b",
+            "stars_translate": 0,
+            "checkmark_color": "#6d388b",
+            "checkmark_icon_color": "#ffffff",
+            "slider_type": "slide",
+            "autoplay": false,
+            "autoplay_speed": 5,
+            "display_arrows": false,
+            "display_dots": true,
+            "author_1": "<em>Flavie R.</em> [stars]",
+            "image_1": "shopify://shop_images/52.webp",
+            "text_1": "<p>I often felt self-conscious about my odor, but since I started using this, I’ve noticed a real improvement. I’ve regained confidence and feel truly ‘fresh.’ Go for it!!</p>",
+            "author_2": "<em>Silène V.</em> [stars]",
+            "image_2": "shopify://shop_images/50.webp",
+            "text_2": "<p>I’ve had vaginosis for years and tried everything… After one month with these gummies, I’ve never felt this good. I truly feel like I’ve finally found a REAL solution.</p>",
+            "author_3": "<em>Leslie L.</em> [stars]",
+            "image_3": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
+            "text_3": "<p>Since I started using this, my vaginal dryness has disappeared, and I finally feel comfortable with my partner — he loves the scent! I used to avoid intimacy, but those days are over.</p>",
+            "margin_top": 24,
+            "margin_bottom": 24
           }
         },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
@@ -404,39 +437,6 @@
             "margin_top": 24,
             "margin_bottom": 0
           }
-        },
-        "reviews_8UgFbe": {
-          "type": "reviews",
-          "settings": {
-            "color_scheme": "background-1",
-            "show_custom_bg": false,
-            "custom_bg_color": "#f2f2f2",
-            "corner_radius": 12,
-            "border_width": 0,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#ffcc00",
-            "stars_translate": 0,
-            "checkmark_color": "#6d388b",
-            "checkmark_icon_color": "#ffffff",
-            "slider_type": "slide",
-            "autoplay": false,
-            "autoplay_speed": 5,
-            "display_arrows": false,
-            "display_dots": true,
-            "author_1": "<em>Flavie R.</em> [stars]",
-            "image_1": "shopify://shop_images/52.webp",
-            "text_1": "<p>I often felt self-conscious about my odor, but since I started using this, I’ve noticed a real improvement. I’ve regained confidence and feel truly ‘fresh.’ Go for it!!</p>",
-            "author_2": "<em>Silène V.</em> [stars]",
-            "image_2": "shopify://shop_images/50.webp",
-            "text_2": "<p>I’ve had vaginosis for years and tried everything… After one month with these gummies, I’ve never felt this good. I truly feel like I’ve finally found a REAL solution.</p>",
-            "author_3": "<em>Leslie L.</em> [stars]",
-            "image_3": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
-            "text_3": "<p>Since I started using this, my vaginal dryness has disappeared, and I finally feel comfortable with my partner — he loves the scent! I used to avoid intimacy, but those days are over.</p>",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
         }
       },
       "block_order": [
@@ -449,6 +449,7 @@
         "buy_buttons",
         "custom_liquid_4E8JGN",
         "text_j6Lnk7",
+        "reviews_8UgFbe",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
@@ -456,8 +457,7 @@
         "collapsible_tab_exMxdT",
         "collapsible_tab_DtHyaC",
         "collapsible_tab_wTRYLA",
-        "collapsible_tab_dXyTtD",
-        "reviews_8UgFbe"
+        "collapsible_tab_dXyTtD"
       ],
       "custom_css": [],
       "settings": {
