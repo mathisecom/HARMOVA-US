@@ -580,6 +580,67 @@
         "padding_bottom": 24
       }
     },
+    "horizontal_ticker_FzJ7Y7": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "image_eMeyCQ": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_wajBdy": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_nVQBHM": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_pxXPFx": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_jP9pcG": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_eMeyCQ",
+        "image_wajBdy",
+        "image_nVQBHM",
+        "image_pxXPFx",
+        "image_jP9pcG"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "background-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
       "type": "image-slider",
       "blocks": {
@@ -1334,6 +1395,7 @@
     "horizontal_ticker_jTga6j",
     "main",
     "related-products",
+    "horizontal_ticker_FzJ7Y7",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "rich_text_xTBzrf",
     "horizontal_ticker_peQEDC",
