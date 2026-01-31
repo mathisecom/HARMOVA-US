@@ -364,7 +364,6 @@
           },
           "4f3e2a5f-006d-40ed-8370-49b15e0e427d": {
             "type": "subtotals",
-            "disabled": true,
             "settings": {
               "display_total_savings": true,
               "savings_left_text": "<strong>Savings</strong>",
@@ -374,7 +373,7 @@
               "savings_text_size": 16,
               "savings_position": "above",
               "savings_spacing": 10,
-              "display_subtotal": true,
+              "display_subtotal": false,
               "subtotal_left_text": "<strong>Subtotal</strong>",
               "subtotal_right_text": "<strong>[subtotal]</strong>",
               "subtotal_alignment": "spaced",
