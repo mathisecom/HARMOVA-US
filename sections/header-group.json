@@ -74,7 +74,7 @@
         "announcement_mpYmLB": {
           "type": "announcement",
           "settings": {
-            "text": "<strong>WINTER SALE:</strong> UP TO 50% OFF",
+            "text": "🎀 <strong>VALENTINE’S DAY SALE </strong>💕",
             "text_alignment": "center",
             "mobile_text_size": 13,
             "desktop_text_size": 16,
@@ -113,7 +113,7 @@
         "padding_bottom": 16,
         "custom_colors_background": "#dd1d1d",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF"
+        "custom_colors_text": "#ffffff"
       }
     },
     "header": {
