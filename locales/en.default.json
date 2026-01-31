@@ -474,8 +474,7 @@
       },
       "general": {
         "continue_to_payment_method": "Confirm Shipping Selection",
-        "pay_now_button_label": "Complete Purchase",
-        "page_title": "Secure Checkout"
+        "pay_now_button_label": "Complete Purchase"
       },
       "shipping": {
         "shipping_method_title": "Shipping method"
